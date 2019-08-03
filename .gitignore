@@ -2,4 +2,4 @@
 .pytest_cache
 env/
 *.pyc
-.DC_store
+.DC_Store
